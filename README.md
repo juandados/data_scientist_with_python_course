@@ -10,3 +10,4 @@
 
 * Python version 3.5;
 * Numpy, the core numerical extensions for linear algebra and multidimensional arrays;
+* Anaconda version 4.3.1 [Download here](https://www.continuum.io/downloads)
